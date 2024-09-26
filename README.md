@@ -1,5 +1,5 @@
 ## Hi there 👋
-##My name is Dev Patel
+My name is Dev Patel
 
 I am currently a sophomore at UIC pursuing a CS undergraduate degree. 
 This past summer, I worked as an intern on a research paper focused on solving coded cashing problems. We tackled linear equations using Gurobi in Python, an optimization tool that greatly aided our efforts.
