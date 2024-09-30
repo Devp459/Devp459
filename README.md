@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dev Patel</h1>
-<h3 align="center">A passionate frontSophomore in CS @UIC | SWE Intern for Coded Cashing Research Paper at UIC | Interested in ML, Algorithms | Actively seeking SWE Internships.</h3>
+<h1 align="center">Hi 👋 I'm Dev Patel</h1>
 
-This past summer, I worked as an intern on a research paper focused on solving coded cashing problems. We tackled linear equations using Gurobi in Python, an optimization tool that greatly aided our efforts.
-- 📫 How to reach me **devrp2306@gmail.com**
+<p><h4> This past summer, I worked as an intern on a research paper focused on solving coded cashing problems. We tackled linear equations using Gurobi in Python, an optimization tool that greatly aided our efforts. </h4></p>
+
+<h3>The projects that I am currently contributing to:</h3>
+<p><a href="https://github.com/Mohpann/AlgoTrading" target="_blank">Algorithmic Trading</a>: A collection of algorithms and strategies for quantitative trading.</p>
+
+<p><a href="https://github.com/acm-uic/SIG-AI" target="_blank">ACM - AI</a>: Turning a video of a object into a 3D model using Machine Learning and AI</p>
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dev-patel-459-uic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev patel" height="30" width="40" /></a>
+<p align="left">- Feel free to reach out at <a href="https://www.linkedin.com/in/dev-patel-459-uic/" target="blank">Linkedin</a></p>
+<p>- If you have any questions, feel free email me 
+        <a href="mailto:devrp2306@gmail.com">devrp2306@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
