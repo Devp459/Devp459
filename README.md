@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dev Patel</h1>
 
-<p><h4> This past summer, I worked as an intern on a research paper focused on solving coded cashing problems. We tackled linear equations using Gurobi in Python, an optimization tool that greatly aided our efforts. </h4></p>
 
 <h3>The projects that I am currently contributing to:</h3>
 <p><a href="https://github.com/Mohpann/AlgoTrading" target="_blank">Algorithmic Trading</a>: A collection of algorithms and strategies for quantitative trading.</p>
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">- Feel free to reach out at <a href="https://www.linkedin.com/in/dev-patel-459-uic/" target="blank">Linkedin</a></p>
-<p>- If you have any questions, feel free email me 
+<p>- If you have any questions, feel free to email me 
         <a href="mailto:devrp2306@gmail.com">devrp2306@gmail.com</a>
 </p>
 
@@ -19,6 +18,9 @@
 
 
 <!--
+<p><h4> During my internship this past summer, I contributed to a research paper addressing coded caching problems to reduce peak-time traffic on websites. We used Gurobi, an advanced optimization tool in Python, to effectively solve complex linear equations. This experience not only sharpened my analytical skills but also deepened my understanding of optimization techniques in real-world applications.</h4></p>
+
+
 **Devp459/Devp459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
