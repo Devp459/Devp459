@@ -6,7 +6,7 @@ This past summer, I worked as an intern on a research paper focused on solving c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dev patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev patel" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dev-patel-459-uic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
