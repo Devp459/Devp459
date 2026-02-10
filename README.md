@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Dev Patel — a Computer Science student at the University of Illinois at Chicago (UIC) with a 3.7 GPA, driven by a deep interest in Artificial Intelligence, Machine Learning, and Data Science.
+  👋 Hi, I'm Dev Patel — a Computer Science student at the University of Illinois at Chicago (UIC) with a 3.7 GPA, driven by a deep interest in Artificial Intelligence, Machine Learning, and Data Science.
 
-My academic journey has been complemented by meaningful hands-on experience. I completed a research internship at UIC, where I developed Python-based data analysis tools and optimization algorithms to solve large-scale linear programs in the field of coded caching. More recently, I worked as a Web Development Intern at TechConnectUSA, where I built responsive front-end interfaces using HTML, CSS, JavaScript, and React, collaborated with cross-functional teams, and contributed to a 30% reduction in website downtime across client projects.
+  My academic journey has been complemented by meaningful hands-on experience. I completed a research internship at UIC, where I developed Python-based data analysis tools and optimization algorithms to solve large-scale linear programs in the field of coded caching. More recently, I worked as a Web Development Intern at TechConnectUSA, where I built responsive front-end interfaces using HTML, CSS, JavaScript, and React, collaborated with cross-functional teams, and contributed to a 30% reduction in website downtime across client projects.
 
-Beyond internships, I enjoy building projects that address real-world problems. From a personal finance guidance app to a sustainability-focused marketplace connecting users with businesses that donate surplus goods, I strive to write code that is both purposeful and impactful.
+  Beyond internships, I enjoy building projects that address real-world problems. From a personal finance guidance app to a sustainability-focused marketplace connecting users with businesses that donate surplus goods, I strive to write code that is both purposeful and impactful.
 
-I am currently seeking internship opportunities where I can contribute to innovative teams, deepen my expertise in software development or data-driven fields, and continue growing as an engineer.
+  I am currently seeking internship opportunities where I can contribute to innovative teams, deepen my expertise in software development or data-driven fields, and continue growing as an engineer.
 
 
 ## 🌐 Socials:
