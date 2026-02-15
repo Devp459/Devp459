@@ -4,34 +4,27 @@
 
 I'm a Computer Science student at the University of Illinois at Chicago (UIC) with a **3.7 GPA**, driven by a deep interest in **Artificial Intelligence, Machine Learning, and Data Science**.
 
----
-
 ## 💼 **Experience**
 
 My academic journey has been complemented by meaningful hands-on experience:
-
-**🔬 Research Intern @ UIC**
-- Developed Python-based data analysis tools and optimization algorithms
-- Solved large-scale linear programs in the field of coded caching
-- Reduced computational time through efficient algorithm design
 
 **💻 Web Development Intern @ TechConnectUSA**
 - Built responsive front-end interfaces using HTML, CSS, JavaScript, and React
 - Collaborated with cross-functional teams to troubleshoot complex issues
 - Contributed to a 30% reduction in website downtime across client projects
 
----
+**🔬 Research Intern @ UIC**
+- Developed Python-based data analysis tools and optimization algorithms
+- Solved large-scale linear programs in the field of coded caching
+- Reduced computational time through efficient algorithm design
+
 
 ## 🚀 **Projects**
 
 Beyond internships, I enjoy building projects that address real-world problems:
 
-✅ **Personal Finance Guidance App** — Helps users manage monthly expenses with interactive Python graphics  
-✅ **EcoMarket Website** — A sustainability-focused marketplace connecting users with businesses that donate surplus goods
-
-I strive to write code that is both purposeful and impactful.
-
----
+**EcoMarket Website** — A sustainability-focused marketplace connecting users with businesses that donate surplus goods
+**Personal Finance Guidance App** — Helps users manage monthly expenses with interactive Python graphics  
 
 ## 🎯 **What I'm Looking For**
 
@@ -39,8 +32,6 @@ I am currently seeking **internship opportunities** where I can:
 - Contribute to innovative teams
 - Deepen my expertise in software development or data-driven fields
 - Continue growing as an engineer
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-patel-459-uic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devrp2306@gmail.com) 
